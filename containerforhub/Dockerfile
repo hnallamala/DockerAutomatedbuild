@@ -1,4 +1,4 @@
-#Comment This will create as container...push it to GIT...and then deploy to docker hub
+#This comment is for checking Comme This will create as container...push it to GIT...and then deploy to docker hub
 
 FROM ubuntu:14.04
 MAINTAINER harikrishna nallamala
