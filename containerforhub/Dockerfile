@@ -5,6 +5,6 @@ MAINTAINER harikrishna nallamala
 
 #Create a directory newdir and touch mynewfile
 RUN mkdir newdir
-RUN touch /newdir/mynewfiledocker
-RUN echo 'this is my new container to make image and then push to hub' >/newdir/mynewfiledocker
+RUN touch /newdir/mynewfile
+RUN echo 'this is my new container to make image and then push to hub' >/newdir/mynewfile
 
