@@ -1,4 +1,4 @@
-#This will create as container...push it to GIT...and then deploy to docker hub
+#New This will create as container...push it to GIT...and then deploy to docker hub
 
 FROM ubuntu:14.04
 MAINTAINER harikrishna nallamala
